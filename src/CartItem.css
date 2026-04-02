@@ -1,5 +1,4 @@
-/* CartItem.css */
-/* CartItem.css */
+
 
 .cart-item {
   display: flex;
@@ -72,13 +71,7 @@
 
 .cart-item-delete:hover {
   background-color: #cc0000;
-}
-/* .cart-item-button-dec{
-  background-color: red;
-}
-.cart-item-button-inc{
-  background-color: green;
-} */
+
 @media (max-width: 768px) {
   .cart-item {
     flex-direction: column; /* Change flex direction to stack items vertically */
